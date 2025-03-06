@@ -12,7 +12,7 @@
                 "version": "0.1.0.0",
                 "targetAbi": "10.10.0.0",
                 "changelog": "https://github.com/theshoeshiner/jellyfin-plugin-iptvorg/raw/main/CHANGELOG.md",
-                "checksum": "5397a193ee8e3df7ae1bb572a4f58369",
+                "checksum": "d23f016ca51d6dcacf2899858bcd5971",
                 "sourceUrl": "https://github.com/theshoeshiner/jellyfin-plugin-iptvorg/releases/download/0.1.0.1/jellyfin-iptvorg_0.1.0.0.zip",
                 "timestamp": "2023-11-22T11:03:00Z"
 
